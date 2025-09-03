@@ -1,2 +1,2 @@
 # from-react-to-next
-[Learning from here.](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
+[Learning react to next.js from here.](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
